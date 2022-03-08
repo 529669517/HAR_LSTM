@@ -6,7 +6,7 @@ classify human activities based on smartphone sensors information only.
 
 The Human Activity Recognition (HAR) dataset [1] is available in the UCI Machine Learning Repository.
 
-The dependency requirement of running the code (lstm.py) is available in the "req.txt" file.
+The dependency requirement of running the code (lstm.py) is available in the "reqlstm.txt" file.
 <br />
 <br />
 
