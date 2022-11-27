@@ -1,8 +1,7 @@
 Introduction
 ------------
 
-This module is written by Kaiyi Zhang (300070775). The module trains a Long Short Term Memory (LSTM) to 
-classify human activities based on smartphone sensors information only. 
+The module trains a Long Short Term Memory (LSTM) to classify human activities based on smartphone sensors information only. 
 
 The Human Activity Recognition (HAR) dataset [1] is available in the UCI Machine Learning Repository.
 
